@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  background: #ebe9e9;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 600 18px "Poppins", sans-serif;
+}
